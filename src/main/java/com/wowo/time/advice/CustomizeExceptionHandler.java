@@ -1,9 +1,10 @@
 package com.wowo.time.advice;
 
 import com.alibaba.fastjson.JSON;
-import life.majiang.community.dto.ResultDTO;
-import life.majiang.community.exception.CustomizeErrorCode;
-import life.majiang.community.exception.CustomizeException;
+
+import com.wowo.time.dto.ResultDTO;
+import com.wowo.time.exception.CustomizeErrorCode;
+import com.wowo.time.exception.CustomizeException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ControllerAdvice;
