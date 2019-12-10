@@ -1,8 +1,6 @@
-## 码匠社区
-
 ## 快速运行
 1. 安装必备工具  
-JDK，Maven
+JDK，Maven IDEA 
 2. 技术栈
 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
 3. 克隆代码到本地  
